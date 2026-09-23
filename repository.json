@@ -1,6 +1,5 @@
 {
-    "name": "OpenVPN Client",
-    "url": "https://github.com/MapGuy11/homeassistant-openvpn-client",
-    "maintainer": "Connor Hackenberg <me@connorhackenberg.tech>"
-  }
-  
+  "name": "OpenVPN Client",
+  "url": "https://github.com/myusername/homeassistant-openvpn-client-addon",
+  "maintainer": "henrikplum"
+}
